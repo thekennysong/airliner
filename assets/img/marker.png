@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>Page not found | Distinctive Themes Demos</title>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="">
+
+	<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='easy_author_image-css'  href='//demo.distinctivethemes.com/wp-content/themes/lutherWP/framework/author-image/css/easy-author-image.css' type='text/css' media='all' />
+<link rel='stylesheet' id='luther-bootstrap-css'  href='//demo.distinctivethemes.com/wp-content/themes/lutherWP/assets/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='luther-responsive-css-css'  href='//demo.distinctivethemes.com/wp-content/themes/lutherWP/assets/css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='luther-plugins-css-css'  href='//demo.distinctivethemes.com/wp-content/themes/lutherWP/assets/css/plugins.css' type='text/css' media='all' />
+<link rel='stylesheet' id='luther-style-css'  href='//demo.distinctivethemes.com/wp-content/themes/lutherWP/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='luther-raleway-css'  href='//fonts.googleapis.com/css?family=Raleway%3A400%2C600%2C700%2C900' type='text/css' media='all' />
+<link rel='stylesheet' id='luther-montserrat-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C700' type='text/css' media='all' />
+<link rel='stylesheet' id='luther-playfair-css'  href='//fonts.googleapis.com/css?family=Playfair+Display%3A400%2C700%2C900' type='text/css' media='all' />
+<link rel='stylesheet' id='luther-crimson-css'  href='//fonts.googleapis.com/css?family=Crimson+Text%3A400%2C600%2C600italic%2C700' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js'></script>
+<script type='text/javascript' src='//demo.distinctivethemes.com/wp-content/themes/lutherWP/assets/js/modernizr.custom.js'></script>
+<link rel='https://api.w.org/' href='http://demo.distinctivethemes.com/wp-json/' />
+
+  <style type="text/css">
+  .container { 
+    max-width px;
+  }
+
+  .about-promo-small h1:after, .portfolio-filter-nav ul li a.active, a:hover, .portfolio-filter-nav ul li a:hover, .clients-text-content h1, .contact-form button:hover, .contact-form .wpcf7-submit:hover, .to-top a:hover i, .portfolio-mask-content a:hover, .news-post .button a:hover, #post-content .button a:hover, li.sharrre:hover, .project-tag-section a:hover, li.sharrre:hover a, .form-submit .button input:hover, .main-menu a:hover {
+    color: #FDD947;
+  }
+
+  .active-nav {
+      color: #FDD947 !important;
+      border-color: #FDD947 !important;
+  }
+
+  .home01 h1:after, .news-item-overlay:hover, .news-item h4, .single-project-slider.owl-theme .owl-controls .owl-dots span, .dt-count {
+    background-color: #FDD947;
+  }
+
+  #bx-pager .active .bx-pager-button .pager-item-overlay, .pager-item-overlay:hover {
+    background-color: rgba(253,217,71,0.8) !important;
+  }
+
+  .form-control:focus {
+    border-bottom: 1px solid #FDD947;
+  }
+
+    .news-page-home {
+    background-image: url('http://demo.distinctivethemes.com/wp-content/themes/lutherWP/assets/images/news-bg.jpg');
+  }
+  
+    </style>
+
+    </head>
+
+<body class="error404">
+	
+    	<div id="preloader">
+        <div id="status"></div>
+	</div>
+    
+	<!-- Master-wrap : starts -->
+	<section id="master-wrap" class="master-wrap">
+
+        <!-- Main Header : starts -->
+        <header id="main-header" class="main-header dark-bg header-fix">
+            <div class="header-content">
+                <div class="logo float-left">
+                                            <a href="http://demo.distinctivethemes.com"><img src="http://demo.distinctivethemes.com/wp-content/themes/lutherWP/assets/images/logo.png" class="logo-img" alt="Logo"/></a>
+                                    </div>
+                <!-- Standard Navigation : starts -->
+
+                <!-- Navigation Trigger Button -->
+                <div class="menu-wrap float-right">
+                    <div class="vertical-align"> 
+                        <div id="toggle-menu"  class="toggle-menu-hidden float-right">
+                            <span class="top"></span>
+                            <span class="middle"></span>
+                            <span class="bottom"></span>
+                        </div>
+                    </div> 
+                </div>  
+                <div class="clearfix"></div>        
+                <!-- Sliding Navigation : ends -->
+            </div>
+
+            <!-- Standard Navigation : starts -->
+            <nav id="standard-nav" class="standard-nav dark-bg text-center">
+                
+                <!-- Main menu : starts -->
+                                <!-- Main menu : ends -->
+            </nav>
+            <!-- Standard Navigation : ends -->
+            
+        </header>
+        <!-- Main Header : ends -->
+
+
+	<!-- Error-home : starts -->
+	<section id="error-home" class="error-home text-center error-bg-img">
+		<div class="container">
+			<div class="row">
+				<div class="full-height">
+					<div class="vertical-align">
+						<h1>Error 404.</h1>
+                   		<p>SORRY, THE PAGE YOU HAVE REQUESTED WAS NOT FOUND!</p>
+					</div>
+				</div>
+			</div>
+		</div>									
+	</section>
+	<!-- Error-home : ends -->
+
+		<!-- Footer : starts -->
+		<section id="footer" class="footer dark-bg dark-wrapper light-content pad-top-half">
+			<!-- Container : starts -->
+			<div class="container">
+
+				<div class="row">
+				  	<div class="white">
+					    <div class="col-md-4 col-sm-3 col-xs-12">	                	
+		                			                </div>
+
+		                <div class="col-md-4 col-sm-3 col-xs-12">
+		                			                </div>
+
+		                <div class="col-md-4 col-sm-3 col-xs-12">	 					
+		                			            	</div>
+				  </div>	
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 text-center">
+												<div class="social-icons text-center">
+																																																																						<a href="http://demo.distinctivethemes.com/feed/rss/" target="_blank">
+								<i class="icon ion-social-rss"></i>
+							</a>
+														<div>
+								<p>Configure this message in "appearance" => "customize"</p>
+							</div>
+						</div>							
+					</div>
+				</div>
+			</div>
+			<!-- Container : ends -->
+
+			<div class="to-top dark-bg text-center">
+				<a class="scroll white" href="#master-wrap"><i class="icon ion-ios-arrow-up"></i></a>
+			</div>
+			
+		</section>
+		<!-- Footer : ends -->
+
+	</section>
+	<!-- Master-wrap :ends -->
+	
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var zerospam = {"key":"OrodVOvn1y^OEyQZqNFyy8^i)^e%p6h5q#scwdxMK3EBKw6mEzXIKfJqlHNwwxt9"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//demo.distinctivethemes.com/wp-content/plugins/zero-spam/js/zerospam.js'></script>
+<script type='text/javascript' src='//demo.distinctivethemes.com/wp-content/themes/lutherWP/assets/bootstrap/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key=AIzaSyCWDPCiH080dNCTYC-uprmLOn2mt2BMSUk&#038;sensor=true'></script>
+<script type='text/javascript' src='//demo.distinctivethemes.com/wp-content/themes/lutherWP/assets/js/plugins.js'></script>
+<script type='text/javascript' src='//demo.distinctivethemes.com/wp-content/themes/lutherWP/assets/js/init.js'></script>
+<script type='text/javascript' src='//demo.distinctivethemes.com/wp-content/themes/lutherWP/assets/js/skip-link-focus-fix.js'></script>
+
+</body>
+</html>
